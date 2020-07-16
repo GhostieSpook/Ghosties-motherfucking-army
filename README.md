@@ -1,4 +1,6 @@
 # Ghosties-motherfucking-army
 JOIN US IN THE CREATING OF A BADASS NEW WORLD!
 
-<iframe src="https://discordapp.com/widget?id=732855745581678602&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+<a href="https://discord.gg/mZrMSzJ">
+  <img src="https://discordapp.com/api/guilds/732855745581678602/embed.png?style=banner2" title="Discord server invite" alt="Discord server invite" />
+</a>
